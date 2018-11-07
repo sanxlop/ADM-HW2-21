@@ -9,6 +9,8 @@ We used also additional data provided in the [Homework 2 repository](https://git
 ⋅⋅⋅This ipython notebook contains the answer to all the RQs and CRQS. Here you will find all the data analysis we did on NYC taxis.
 2. `results\` 
 ...It's a subfolder containing all the saved Choropleth maps outputs from CRQ2, that can be consulted in case they cannot be seen on the jupyter notebook. The maps displays correctly on Safari and Firefox on the `Homework2.ipynb`, meanwhile has problem rendering in Chrome.
+## Preview of the project
+The project can be previewed at [this link](https://nbviewer.jupyter.org/github/sanxlop/ADM-HW2-21/blob/master/Homework_2.ipynb). Please notice that the Choropleth maps are not included, so they need to be downloaded from `results/` folder if they need to be consulted.
 ## RQs briefing
 ### RQ1
 In this RQ we analyze the period of the year in which taxis are more used. Therefore, we calculate the average of trips per day in each month taking into account multiple factors and filtering the data. This first exercise has served as a basis for the extraction and manipulation of data for the following ones. Next, we analyze the same situation for each borough. 
